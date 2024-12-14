@@ -2,7 +2,7 @@
 //  newsinfo.swift
 //  JSONParsing
 //
-//  Created by kaniz fatema on 28/11/24.
+
 //
 
 import Foundation
